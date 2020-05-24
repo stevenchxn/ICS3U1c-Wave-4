@@ -1,4 +1,0 @@
-film_genre = {'sciences':[lab,nuclear, chemistry, biology, physics], 'mathematics':[physics, trigonometry, product, sum], 'english':[essay, article, journal, paper, author, writer], 'computer science':[code, python, java, C, C++, github, string]}
-search = input("Enter your search here: ")
-topics = []
-  if search in 
